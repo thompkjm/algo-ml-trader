@@ -10,7 +10,7 @@ The order to run the files is bestwindows.py (takes around 2 hours to run, don't
 ## Installation
 Packages to be installed are found in the file requirements.txt
 
-##Summary
+## Summary
 bestwindows.py: The algorithm finds the combination of SMA’s that’s the most profitable based on the idea of entering and exiting trades at specific time deltas.
 
 bestwindows.ipynb: The notebook showcases the profit for each combination of SMA’s. The most profitable combination that is, small SMA – 1; big SMA – 6, will be used for further analysis.
